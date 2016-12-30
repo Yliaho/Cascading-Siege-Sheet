@@ -11,4 +11,8 @@ Stylesheet and assets for /r/Rainbow6 subreddit
 
 ## Disclaimer
 
-I am not associated with Ubisoft. Some images are provided by Ubisoft as fair use.
+I am not associated with Ubisoft. Some pictures and images from the Ubisoft game _Rainbow Six: Siege_, are used as fair use.  
+
+__Media used:__
+
+* Rainbow Six: Siege asset packs: https://www.reddit.com/r/Rainbow6/wiki/assets
