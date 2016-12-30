@@ -7,4 +7,8 @@ Stylesheet and assets for /r/Rainbow6 subreddit
 * For small images and icons, please put them in ``img-spritehseet.png``.
 * Images must be referenced as ``url(%filename%)``.
 * Check reddit's [css filter](https://github.com/reddit/reddit/blob/master/r2/r2/lib/cssfilter.py) for proporties that you can use. There are a few limitations.
-* That's pretty much it!
+* That's pretty much it!  
+
+## Disclaimer
+
+I am not associated with Ubisoft. Some images are provided by Ubisoft as fair use.
