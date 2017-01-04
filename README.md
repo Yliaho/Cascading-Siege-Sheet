@@ -1,3 +1,4 @@
+![siege preview](http://i.imgur.com/RlE4nlJ.png)
 # Cascading-Siege-Sheet
 Stylesheet and assets for /r/Rainbow6 subreddit
 
